@@ -17,4 +17,19 @@ public class SeleniumProject {
 		System.out.println("This is sanity code");
 	}
 
+	
+	@Test
+	public void RegCode() {
+		System.out.println("This is Reg code");
+	}
+	
+	@Test
+	public void AdHocCode() {
+		System.out.println("This is Adhoc code");
+	}
+	
+	@Test
+	public void UATCode() {
+		System.out.println("This is UAT code");
+	}
 }
