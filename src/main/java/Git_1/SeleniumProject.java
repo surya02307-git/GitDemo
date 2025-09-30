@@ -32,4 +32,19 @@ public class SeleniumProject {
 	public void UATCode() {
 		System.out.println("This is UAT code");
 	}
+	
+	@Test
+	public void SITCode() {
+		System.out.println("This is SIT code");
+	}
+	
+	@Test
+	public void RELCode() {
+		System.out.println("This is REL code");
+	}
+	
+	@Test
+	public void CITCode() {
+		System.out.println("This is CIT code");
+	}
 }
